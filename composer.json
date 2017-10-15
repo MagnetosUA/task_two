@@ -1,0 +1,7 @@
+{
+    "name": "aleks/task_two",
+    "require": {
+        "symfony/symfony": "2.8",
+        "symfony/finder": "^3.3"
+    }
+}
